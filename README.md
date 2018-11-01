@@ -1,2 +1,2 @@
-# cv
-个人简历
+# CV
+Huajin Wu's CV as Web Front-End engineer
